@@ -5,6 +5,7 @@ text = """
 8(495)123-45-67
 +79123456789
 8 800 555 35 35
+0 922 15 32 32
 """
 phones = phone_shablon.findall(text)
 print(phones)
